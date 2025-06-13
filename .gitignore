@@ -1,0 +1,20 @@
+# 🐍 Python y cachés
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# 🌱 Entornos virtuales (por si los usás)
+venv/
+env/
+
+# ⚙️ Configuración de editores
+.idea/
+.vscode/
+
+# 🔐 Archivos sensibles
+.env
+
+# 📂 Archivos del sistema
+*.DS_Store
+Thumbs.db
